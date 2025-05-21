@@ -1,2 +1,4 @@
 # Disaster-Detection-System
 This project presents a cost-effective and intelligent smart home disaster detection and alert system using the ESP32 microcontroller. The system monitors environmental parameters such as gas leaks, fire, flooding, motion, temperature, humidity, earthquakes, and panic situations using sensors like MQ gas sensor, LDR, potentiometer, PIR, MPU6050, DHT22, and a push-button. It uses an OLED screen for local display, a NeoPixel ring for visual alerts, and a buzzer for audible alarms. Blynk IoT is integrated to send real-time notifications to a smartphone via the internet. The system’s compactness, wireless capabilities, and ability to push instant alerts make it suitable for smart home and safety-critical applications. This report documents the design, implementation, and testing of the system with code and simulation in Wokwi.
+
+Wokwi link :- https://wokwi.com/projects/427459156380954625
