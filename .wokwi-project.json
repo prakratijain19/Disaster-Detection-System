@@ -1,0 +1,8 @@
+{
+  "name": "IOT MINI PROJECT",
+  "board": "esp32-devkit-v1",
+  "wifi": {
+    "ssid": "Prakrati",
+    "password": "prakratiiiii"
+  }
+}

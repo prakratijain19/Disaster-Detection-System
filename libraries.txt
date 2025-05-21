@@ -1,0 +1,11 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+# Automatically added based on includes:
+Adafruit NeoPixel
+Adafruit GFX Library
+DHT sensor library
+
+Adafruit SSD1306
+MPU6050
+Blynk
